@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Life of a Coder\\SignalRChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD655BC-D863-4FA9-A887-51C6F56F0F21}|SignalRChat\\SignalRChat.csproj|d:\\study\\life of a coder\\signalrchat\\signalrchat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CD655BC-D863-4FA9-A887-51C6F56F0F21}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD655BC-D863-4FA9-A887-51C6F56F0F21}|SignalRChat\\SignalRChat.csproj|d:\\study\\life of a coder\\signalrchat\\signalrchat\\views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CD655BC-D863-4FA9-A887-51C6F56F0F21}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD655BC-D863-4FA9-A887-51C6F56F0F21}|SignalRChat\\SignalRChat.csproj|D:\\Study\\Life of a Coder\\SignalRChat\\signalrchat\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3CD655BC-D863-4FA9-A887-51C6F56F0F21}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD655BC-D863-4FA9-A887-51C6F56F0F21}|SignalRChat\\SignalRChat.csproj|D:\\Study\\Life of a Coder\\SignalRChat\\signalrchat\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD655BC-D863-4FA9-A887-51C6F56F0F21}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD655BC-D863-4FA9-A887-51C6F56F0F21}|SignalRChat\\SignalRChat.csproj|D:\\Study\\Life of a Coder\\SignalRChat\\signalrchat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CD655BC-D863-4FA9-A887-51C6F56F0F21}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\Life of a Coder\\SignalRChat\\SignalRChat\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRChat\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Study\\Life of a Coder\\SignalRChat\\SignalRChat\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SignalRChat\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T04:14:01.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\Study\\Life of a Coder\\SignalRChat\\SignalRChat\\Content\\Site.css",
+              "RelativeDocumentMoniker": "SignalRChat\\Content\\Site.css",
+              "ToolTip": "D:\\Study\\Life of a Coder\\SignalRChat\\SignalRChat\\Content\\Site.css",
+              "RelativeToolTip": "SignalRChat\\Content\\Site.css",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-31T16:53:49.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Study\\Life of a Coder\\SignalRChat\\SignalRChat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SignalRChat\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Study\\Life of a Coder\\SignalRChat\\SignalRChat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SignalRChat\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAFB2wCsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T15:21:25.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "D:\\Study\\Life of a Coder\\SignalRChat\\SignalRChat\\Views\\Home\\Chat.cshtml",
+              "RelativeDocumentMoniker": "SignalRChat\\Views\\Home\\Chat.cshtml",
+              "ToolTip": "D:\\Study\\Life of a Coder\\SignalRChat\\SignalRChat\\Views\\Home\\Chat.cshtml",
+              "RelativeToolTip": "SignalRChat\\Views\\Home\\Chat.cshtml",
+              "ViewState": "AQIAALwAAAAAAAAAAAAiwNIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T15:06:31.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\Study\\Life of a Coder\\SignalRChat\\SignalRChat\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalRChat\\ChatHub.cs",
+              "ToolTip": "D:\\Study\\Life of a Coder\\SignalRChat\\SignalRChat\\ChatHub.cs",
+              "RelativeToolTip": "SignalRChat\\ChatHub.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:04:06.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
